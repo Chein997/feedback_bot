@@ -9,7 +9,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 
 logging.basicConfig(level=logging.INFO)
 
-API_TOKEN = ('5681470528:AAHak50w9-H-ySryd_gfoH0rXUmDfh8X5TI')
+API_TOKEN = ('Token')
 
 bot = Bot(token=API_TOKEN)
 db = BotDB('feedbacks.db')
